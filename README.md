@@ -1,3 +1,5 @@
+<p align="center"><a href="https://srvscripts.com/"><img src="banner.png" alt="srvScripts: tested scripts, guides and free tools for server admins" width="100%"></a></p>
+
 ### srvScripts: tested scripts, guides and free tools for server admins
 
 We run Linux and Windows servers, mail and VoIP for a living, and publish what we use: scripts we have run on real lab servers, step-by-step guides, and browser-based checkers you can point at your own domain or server.
